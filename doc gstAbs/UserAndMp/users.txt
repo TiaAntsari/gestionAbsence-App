@@ -1,0 +1,18 @@
+Admin => 
+username : admin
+mp : admin123
+
+Faculty =>
+FirstName & LastName (respectivement) :
+Antsa Tia
+Tambiniaina Ravo
+Voniala Fitia
+
+username (respectivement) : 
+tia
+ravo
+sco
+mp : 
+123
+ravo
+sco

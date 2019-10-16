@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon May 27 10:30:08 WET 2019
+1.base=C\:\\C\\programme\\androidStudio-workspace\\ensa\\ensa4\\tp\\AttendanceApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\C\\programme\\androidStudio-workspace\\ensa\\ensa4\\tp\\AttendanceApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+1.path=classes.dex
